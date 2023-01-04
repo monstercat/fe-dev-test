@@ -1,2 +1,4 @@
-# fe-dev-test
-This repository stores files for testing candidates for FrontEnd Developer roles
+# Monstercat - FrontEnd Developer Test
+This repository stores files for the FrontEnd Developer test.
+
+Here you'll find image files, as well as the layout file for the Pokémon Take Home Accessment.
